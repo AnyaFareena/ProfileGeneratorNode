@@ -8,4 +8,4 @@ This application generates pdfs using inquirer module and axios module to get in
 
 
 #### Screenshot of the generated PDF
-![profile sample](./profile.pdf)
+<img width="692" alt="screenshot" src="https://user-images.githubusercontent.com/54870343/69376684-b75aa000-0c78-11ea-8420-facff6e3b1cc.png">
