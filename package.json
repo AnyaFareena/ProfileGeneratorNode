@@ -8,9 +8,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:AnyaFareena/ProfileGeneratorNode.git"
+    "url": "git+https://github.com/AnyaFareena/ProfileGeneratorNode.git"
   },
-  "author": "Ingrid Norrmann",
+  "author": "AnyaFareena",
   "license": "ISC",
   "homepage": "https://github.com/AnyaFareena/ProfileGeneratorNode#readme",
   "dependencies": {
