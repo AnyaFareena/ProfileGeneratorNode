@@ -12,7 +12,7 @@
   },
   "author": "Ingrid Norrmann",
   "license": "ISC",
-  "homepage": "https://github.com/AnyaFareena/ProfileGeneratorNode/blob/master/README.md",
+  "homepage": "https://github.com/AnyaFareena/ProfileGeneratorNode#readme",
   "dependencies": {
     "axios": "^0.19.0",
     "html-pdf": "^2.2.0",
